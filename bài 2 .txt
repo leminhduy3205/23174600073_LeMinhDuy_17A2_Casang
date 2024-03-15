@@ -1,0 +1,8 @@
+Nhập mã sách (mã sinh viên): 23174600073
+Nhập tên sách: chú bé loắt choắt
+Nhập tác giả: Lê Minh Duy
+Nhập năm xuất bản: 2005
+Nhập số lượng sách (ngày sinh của sinh viên): 1
+Thư viện ĐHKTKTCN có 1 sách chú bé loắt choắt với mã số 23174600073.
+Cuốn sách của tác giả Lê Minh Duy được xuất bản vào năm 2005
+

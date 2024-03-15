@@ -1,0 +1,10 @@
+Nhập hệ số a1: 23
+Nhập hệ số b1: 4
+Nhập hệ số c1: 22
+Nhập hệ số a2: 34
+Nhập hệ số b2: 43
+Nhập hệ số c2: 53
+Giải hệ phương trình:
+23.0x + 4.0y = 22.0
+34.0x + 43.0y = 53.0
+Có nghiệm x = 0.86, y = 0.55

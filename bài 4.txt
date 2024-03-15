@@ -1,0 +1,5 @@
+Nhập độ dài cạnh đáy của hình chóp đều: 3
+Nhập chiều cao của hình chóp đều: 4
+Diện tích xung quanh của hình chóp là: 24.00 đơn vị vuông
+Diện tích toàn phần của hình chóp là: 33.00 đơn vị vuông
+Thể tích của hình chóp là: 12.00 đơn vị khối

@@ -1,0 +1,4 @@
+Nhập hiệu điện thế (V): 344
+Nhập cường độ dòng điện (A): 234
+Nhập số giờ sử dụng máy lọc không khí: 233
+Tổng số tiền điện phải trả là: 93777840.00 đồng
