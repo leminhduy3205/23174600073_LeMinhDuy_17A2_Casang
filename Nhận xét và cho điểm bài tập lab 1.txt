@@ -1,0 +1,32 @@
+- Bài 1: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 2: đoạn code em đang làm được ví như "lấy con voi đè chết con kiến". Sử dụng quá nhiều kiến thức "cao siêu" cho một bài đơn giản. Sử dụng function, hướng đối tượng, kiến thức vượt ngoài kiến thức lab 1, vượt cả kiến thức năm nhất
+Điểm bài tập: 0.5
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 5: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 6: thiếu
+Điểm bài tập: 0
+
+- Bài 7: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 8: thiếu
+Điểm bài tập: 0
+
+- Bài 9: thiếu
+Điểm bài tập: 0
+
+- Bài 10: Sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 6.0
+
