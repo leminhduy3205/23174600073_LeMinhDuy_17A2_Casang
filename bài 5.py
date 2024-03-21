@@ -1,24 +1,17 @@
-def tinh_tien_dien_gia_dinh(hieu_dien_the, cuong_do_dien, so_gio_su_dung, gia_dien):
-    # Tính công suất (W)
-    cong_suat = hieu_dien_the * cuong_do_dien
-    
-    # Tính năng lượng tiêu thụ (kWh)
-    nang_luong_tieu_thu = (cong_suat / 1000) * so_gio_su_dung
-    
-    # Tính số tiền điện phải trả
-    tien_dien = nang_luong_tieu_thu * gia_dien
-    
-    return tien_dien
+def tinh_tong_tien_ve(n):
+    gia_ve= 120000
 
-def main():
-    hieu_dien_the = float(input("Nhập hiệu điện thế (V): "))
-    cuong_do_dien = float(input("Nhập cường độ dòng điện (A): "))
-    so_gio_su_dung = float(input("Nhập số giờ sử dụng máy lọc không khí: "))
-    gia_dien = 5000  # Giá điện (đồng/kWh)
+    tong_tien = n * gia_ve
+    if n >= 2 and n <=4:
+        tong_tien= 0.05*tong_tien 
+    elif n>=4 and n<=10:
+        tong_tien= 0.1*tong_tien
+    elif n>=10:
+        tong_tien=0.2*tong_tien
+    return tong_tien
+#-----
+so_luong= int(input("Nhập số lượng vé mua: "))
+tong_tien_ve= tinh_tong_tien_ve(so_luong)
+print("Tổng số tiền phải trả là:", tong_tien_ve, "Đồng")
 
-    tien_dien = tinh_tien_dien_gia_dinh(hieu_dien_the, cuong_do_dien, so_gio_su_dung, gia_dien)
 
-    print(f"Tổng số tiền điện phải trả là: {tien_dien:.2f} đồng")
-
-if __name__ == "__main__":
-    main()

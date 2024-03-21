@@ -1,0 +1,3 @@
+Nhập một số nguyên: 4
+Chữ số hàng nghìn của số 4 là: 0
+

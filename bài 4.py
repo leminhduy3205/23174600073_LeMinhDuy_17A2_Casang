@@ -1,32 +1,15 @@
-import math
-
-def tinh_dien_tich_xung_quanh(canh_day, chieu_cao):
-    chu_vi_day = 4 * canh_day
-    dien_tich_xung_quanh = 0.5 * chu_vi_day * chieu_cao
-    return dien_tich_xung_quanh
-
-def tinh_dien_tich_toan_phan(canh_day, chieu_cao):
-    dien_tich_day = canh_day**2
-    dien_tich_xung_quanh = tinh_dien_tich_xung_quanh(canh_day, chieu_cao)
-    dien_tich_toan_phan = dien_tich_xung_quanh + dien_tich_day
-    return dien_tich_toan_phan
-
-def tinh_the_tich(canh_day, chieu_cao):
-    dien_tich_day = canh_day**2
-    the_tich = (1/3) * dien_tich_day * chieu_cao
-    return the_tich
-
-def main():
-    canh_day = float(input("Nhập độ dài cạnh đáy của hình chóp đều: "))
-    chieu_cao = float(input("Nhập chiều cao của hình chóp đều: "))
-
-    dien_tich_xung_quanh = tinh_dien_tich_xung_quanh(canh_day, chieu_cao)
-    dien_tich_toan_phan = tinh_dien_tich_toan_phan(canh_day, chieu_cao)
-    the_tich = tinh_the_tich(canh_day, chieu_cao)
-
-    print(f"Diện tích xung quanh của hình chóp là: {dien_tich_xung_quanh:.2f} đơn vị vuông")
-    print(f"Diện tích toàn phần của hình chóp là: {dien_tich_toan_phan:.2f} đơn vị vuông")
-    print(f"Thể tích của hình chóp là: {the_tich:.2f} đơn vị khối")
-
-if __name__ == "__main__":
-    main()
+def xep_loai_diem(diem):
+    if 0<= diem<5:
+        return "Điểm kém"
+    elif 5<= diem<=7:
+        return "Điểm trung bình"
+    elif 7<= diem <=8.5:
+        return "Điểm khá"
+    elif 8.5<= diem <= 10:
+        return "Điểm tốt"
+    else:
+        return "Điểm không hợp lệ"
+#---
+diem = float(input("Nhập điểm số của bài kiểm tra: "))
+xep_loai= xep_loai_diem(diem)
+print("Xếp loại điểm:", xep_loai)
