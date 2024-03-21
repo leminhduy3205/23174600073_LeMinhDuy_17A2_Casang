@@ -1,2 +1,4 @@
-nhập chỉ số: 34
-Xếp loại chỉ số Béo
+Nhập chiều cao của bạn (mét): 344
+Nhập cân nặng của bạn (kg): 55
+Chỉ số BMI của bạn là: 0.0004647782585181179
+Phân loại BMI: Gầy
