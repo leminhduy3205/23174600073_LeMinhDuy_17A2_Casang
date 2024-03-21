@@ -1,0 +1,2 @@
+Nhập số lượng người: 44
+Tổng số tiền phải trả là: 4224000.0 đồng
