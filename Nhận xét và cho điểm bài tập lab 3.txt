@@ -1,0 +1,29 @@
+Các buổi học trước cô đã dặn là phần bài tập sẽ chỉ nhận ảnh kết quả code, chứ không nhận file .txt nữa. Hơn nữa các file .txt đều trống . Lab 3 này cô sẽ trừ 2 điểm tổng bài của em
+Một số câu giống với bài của bạn Lê Minh Duy
+
+- Bài 1: 
+a) đúng
+b) đúng
+c) trống
+d) trống
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng. Giống bài bạn Nguyễn Tiến Dũng?
+b) đúng. Giống bài bạn Nguyễn Tiến Dũng?
+c) sử dụng while, kiến thức vượt ngoài kiến thức lab 1,2,3
+d) đúng. Giống bài bạn Nguyễn Tiến Dũng?
+e) đúng. Giống bài bạn Nguyễn Tiến Dũng?
+Điểm bài tập: 4.5. Lấy điểm cao nhất giữa 2 bạn và chia đôi điểm: 5.0 : 2 (giống bài tập) = 2.5
+
+- Bài 4:
+a) trống 
+b) trống
+Điểm bài tập: 
+
+Tổng điểm bài tập lab 3: 5.5
